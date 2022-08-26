@@ -13,11 +13,11 @@ the code can preprocess it, join different sets of measurements, perform PCA and
 
 To cite the code please use following DOI:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4495484.svg)](https://doi.org/10.5281/zenodo.4495484)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4495483.svg)](https://doi.org/10.5281/zenodo.4495483)
 
 ### Requirements
 - Python v3.0 or higher
-- numPy 
+- numPy
 - matplotlib
 
 ### Installation
